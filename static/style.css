@@ -1,0 +1,28 @@
+
+body{
+    box-sizing: border-box;
+    background-color:#c2c2c2;
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+}
+
+.wrapper{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top: 2%;
+    width:100%;
+    color:white;
+}
+h4{
+    margin: 0;
+}
+header{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: #eaeaea;
+    padding:1%;
+}

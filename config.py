@@ -1,0 +1,3 @@
+
+SECRET_KEY='c789d388729d0cd26170aee5'
+STATIC_FOLDER = 'static/'
